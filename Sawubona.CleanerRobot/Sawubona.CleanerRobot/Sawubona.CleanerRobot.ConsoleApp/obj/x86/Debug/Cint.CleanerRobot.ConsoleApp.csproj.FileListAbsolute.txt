@@ -1,0 +1,14 @@
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Cint.CleanerRobot.ConsoleApp.exe.config
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Cint.CleanerRobot.ConsoleApp.exe
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Cint.CleanerRobot.ConsoleApp.pdb
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Cint.CleanerRobot.Core.dll
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Moq.dll
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Cint.CleanerRobot.Core.pdb
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\bin\Debug\Moq.xml
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.Resources.resources
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.csproj.GenerateResource.cache
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.csproj.CopyComplete
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.exe
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.ConsoleApp\obj\x86\Debug\Cint.CleanerRobot.ConsoleApp.pdb

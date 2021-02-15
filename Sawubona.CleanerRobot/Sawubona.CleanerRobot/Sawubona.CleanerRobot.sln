@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sawubona.CleanerRobot.ConsoleApp", "Sawubona.CleanerRobot.ConsoleApp\Sawubona.CleanerRobot.ConsoleApp.csproj", "{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sawubona.CleanerRobot.Core", "Sawubona.CleanerRobot.Core\Sawubona.CleanerRobot.Core.csproj", "{FBFA0B86-B6F7-404C-8A02-E52486A51989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sawubona.CleanerRobot.Core.Test", "Sawubona.CleanerRobot.Test\Sawubona.CleanerRobot.Core.Test.csproj", "{27967F78-8C17-4520-82B0-E2C1E269D8F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B4011A0-40BD-446A-A3D8-FA31267135D3}"
+	ProjectSection(SolutionItems) = preProject
+		Sawubona.CleanerRobot.Console.vsmdi = Sawubona.CleanerRobot.Console.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{52695DBB-DA14-42BA-9FB8-AF012C073B4E}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|ARM.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|Win32.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|Win32.Build.0 = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|x64.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|x86.ActiveCfg = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Debug|x86.Build.0 = Debug|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|Any CPU.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|ARM.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|Win32.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|Win32.Build.0 = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|x64.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|x86.ActiveCfg = Release|x86
+		{AB3E67BC-8442-4E2C-BB3E-507E5832E64C}.Release|x86.Build.0 = Release|x86
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|Win32.ActiveCfg = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|x64.ActiveCfg = Release|Any CPU
+		{FBFA0B86-B6F7-404C-8A02-E52486A51989}.Release|x86.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|ARM.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|Win32.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|x64.ActiveCfg = Release|Any CPU
+		{27967F78-8C17-4520-82B0-E2C1E269D8F6}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC7DC91-0C89-4093-BF4D-8367BEC34765}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Sawubona.CleanerRobot.Console.vsmdi
+	EndGlobalSection
+EndGlobal

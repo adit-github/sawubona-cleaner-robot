@@ -1,0 +1,9 @@
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\bin\Debug\Cint.CleanerRobot.Core.dll
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\bin\Debug\Cint.CleanerRobot.Core.pdb
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\bin\Debug\Moq.dll
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\bin\Debug\Moq.xml
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\obj\Debug\Cint.CleanerRobot.Core.csprojAssemblyReference.cache
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\obj\Debug\Cint.CleanerRobot.Core.csproj.CoreCompileInputs.cache
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\obj\Debug\Cint.CleanerRobot.Core.csproj.CopyComplete
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\obj\Debug\Cint.CleanerRobot.Core.dll
+C:\Users\achar\Downloads\Cint-Robot-Cleaner-master\Cint-Robot-Cleaner-master\Cint.CleanerRobot\Cint.CleanerRobot\Cint.CleanerRobot.Core\obj\Debug\Cint.CleanerRobot.Core.pdb
