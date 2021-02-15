@@ -73,7 +73,7 @@ namespace Sawubona.CleanerRobot.Test
         }
 
         [Test]
-        public void ExecuteClean_Session_One_Line_should_return_4001()
+        public void ExecuteClean_Session_One_Line()
         {
             List<MoveCommand> commands = new List<MoveCommand>();
             commands.Add(new MoveCommand(Direction.E, 4000));
@@ -88,7 +88,7 @@ namespace Sawubona.CleanerRobot.Test
         }
 
         [Test]
-        public void ExecuteClean_Session_Square_should_return_800000()
+        public void ExecuteClean_Session_Square()
         {
             Robot SUT = new Robot();
 
