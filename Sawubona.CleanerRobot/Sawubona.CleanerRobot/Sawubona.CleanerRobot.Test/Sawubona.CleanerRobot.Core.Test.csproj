@@ -9,8 +9,8 @@
     <ProjectGuid>{27967F78-8C17-4520-82B0-E2C1E269D8F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Cint.CleanerRobot.Core.Test</RootNamespace>
-    <AssemblyName>Cint.CleanerRobot.Core.Test</AssemblyName>
+    <RootNamespace>Sawubona.CleanerRobot.Core.Test</RootNamespace>
+    <AssemblyName>Sawubona.CleanerRobot.Core.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
