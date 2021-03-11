@@ -8,8 +8,8 @@
     <ProjectGuid>{FBFA0B86-B6F7-404C-8A02-E52486A51989}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Cint.CleanerRobot.Core</RootNamespace>
-    <AssemblyName>Cint.CleanerRobot.Core</AssemblyName>
+    <RootNamespace>Sawubona.CleanerRobot.Core</RootNamespace>
+    <AssemblyName>Sawubona.CleanerRobot.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
